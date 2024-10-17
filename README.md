@@ -31,7 +31,7 @@ Es una simulación de pelotas que caen y rebotan usando **Java** en el backend. 
 
 1. Clona este repositorio en tu máquina local:
     ```bash
-    git clone [https://github.com/tu-usuario/simulacion-rebote-amortiguado.git](https://github.com/alex-raul/rebote-de-pelotas-con-Threads-Java
+    git clone https://github.com/alex-raul/rebote-de-pelotas-con-Threads-Java
     ```
 
 2. Importa el proyecto en tu IDE de preferencia (NetBeans, Eclipse, IntelliJ).
@@ -43,9 +43,9 @@ Es una simulación de pelotas que caen y rebotan usando **Java** en el backend. 
 
 4. Despliega el proyecto en **Apache Tomcat** u otro servidor compatible.
 
-5. Abre tu navegador e ingresa a `https://github.com/alex-raul/rebote-de-pelotas-con-Threads-Java` para ver la simulación en acción.
+5. Abre tu navegador e ingresa a `http://localhost:8080/SimulacionPelotasWeb/` para ver la simulación en acción.
 
-## Capturas de Pantalla
+## CAP
 
-![Simulación de Rebote Amortiguado](ruta-a-la-captura-de-pantalla.png)
+![Simulación de Rebote Amortiguado](captura.png)
 
